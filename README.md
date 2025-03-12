@@ -1,2 +1,2 @@
 # Mobile-application-development
-Mobile application development(Разработка мобильных приложений)
+Mobile-application development(Разработка мобильных приложений)
